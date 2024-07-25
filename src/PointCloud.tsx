@@ -1,5 +1,3 @@
-// Inspired from https://threejs.org/examples/?q=draw#webgl_buffergeometry_drawrange
-
 import { useEffect, useMemo, useRef } from "react";
 import { AdditiveBlending, Vector3 } from "three";
 import { useFrame } from "@react-three/fiber";
